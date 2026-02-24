@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | (.,Windows 11 25H2 ) |
+| OS Build / Version | OS Build 26200.7623 |
+| RAM | (16.0 GB (15.7 GB usable)) |
+| CPU Model | (12th Gen Intel(R) Core(TM) i7-12650H (2.30 GHz)) |
+| CPU Cores | | 10,16
+| Free Disk Space | (90 GB free) |
+| Internet Speed (800) | (800 Mbps) |
 
 ---
 
